@@ -2,7 +2,7 @@ const Card = ({name,age,role, isActive}) => {
    
         return ( 
                 <div className="card">
-                    <img src="https://pedodoctor.com/custom/images/dr-jeffries.jpg" 
+                    <img src="https://www.seekpng.com/png/detail/143-1435868_headshot-silhouette-person-placeholder.png" 
                     width="100px"
                     alt="" 
                     />
